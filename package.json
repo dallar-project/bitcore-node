@@ -29,10 +29,10 @@
   ],
   "dependencies": {
     "async": "^2.5.0",
-    "bcoin": "bitpay/bcoin#v1.0.0-beta.14+cash",
+    "bcoin": "dallar-project/bcoin#dallar",
     "bitcoind-rpc": "dallar-project/bitcoind-rpc",
     "bitcore-lib": "dallar-project/bitcore-lib",
-    "bitcore-p2p": "5.0.0-beta.1",
+    "bitcore-p2p": "dallar-project/bitcore-p2p",
     "bn.js": "^4.11.8",
     "body-parser": "^1.13.3",
     "colors": "^1.1.2",
