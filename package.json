@@ -31,7 +31,7 @@
     "async": "^2.5.0",
     "bcoin": "dallar-project/bcoin#dallar",
     "bitcoind-rpc": "dallar-project/bitcoind-rpc",
-    "bitcore-lib": "dallar-project/bitcore-lib",
+    "bitcore-lib": "dallar-project/bitcore-lib#copay",
     "bitcore-p2p": "dallar-project/bitcore-p2p",
     "bn.js": "^4.11.8",
     "body-parser": "^1.13.3",
